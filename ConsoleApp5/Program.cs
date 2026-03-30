@@ -5,9 +5,10 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello,from Nazrin!");
+            Console.WriteLine("Hello,from Nazrin Razzagova!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello,from Milan!");
+
 
         }
     }
